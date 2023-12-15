@@ -4,12 +4,12 @@ This repository contains the code for a simple Console Assistant Bot, designed t
 
 ### Commands
 
-    - `hello`: Greet the bot and it responds to assist.
-    - `add [name] [phone number]`: Add a new contact.
-    - `change [name] [new phone number] `: Update an existing contact's phone number.
-    - `phone [name]`: Retrieve the phone number of a specific contact.
-    - `show all`: Display all stored contacts and their phone numbers.
-    - `good bye` / `close` / `exit`: Exit the bot.
+- `hello`: Greet the bot and it responds to assist.
+- `add [name] [phone number]`: Add a new contact.
+- `change [name] [new phone number] `: Update an existing contact's phone number.
+- `phone [name]`: Retrieve the phone number of a specific contact.
+- `show all`: Display all stored contacts and their phone numbers.
+- `good bye` / `close` / `exit`: Exit the bot.
 
 ### Installation and Usage:
     # Clone the repository
